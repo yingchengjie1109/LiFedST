@@ -10,6 +10,11 @@ conda activate LiFedST
 bash install.sh
 ```
 
+## Usage
+We have provided the datasets for PeMS04, PeMS07, and PeMS08. The remaining datasets can be downloaded via the following URL.
+The METR_LA dataset metr-la.npy can be obtained from [Google Drive](https://drive.google.com/file/d/16xbiRvh5jJx2A4Swv9dEMEz_Y0AEoQTM/view).
+The PEMS_BAY dataset pems-bay.h5 can be obtained from [Google Drive](https://drive.google.com/drive/folders/10FOTa6HXPqX8Pf5WRoRwcFnW9BrNZEIX?usp=drive_open).
+
 ## Run
 ```bash
 bash run.sh
