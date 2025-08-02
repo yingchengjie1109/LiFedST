@@ -32,3 +32,7 @@ python run.py
 | number of local epochs $R_l$        | 2      |
 | validation ratio                        | 0.2    |
 | testing ratio                           | 0.2    |
+
+## Acknowledgement
+We appreciate the following GitHub repos a lot for their valuable code and efforts.
+- FedGTP (https://github.com/cwt-2021/KDD2024_FedGTP)
